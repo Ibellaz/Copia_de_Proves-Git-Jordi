@@ -53,6 +53,7 @@ Inici llista 2a part
 Endreçar llibres
 Treure la pols armari
 
+<<<<<<< HEAD
 Canvis des de main
 
 Pensar plans cap de setmana
@@ -89,3 +90,14 @@ Canvis a develop
 Fer una capcinada
 Rascar-se la panxa
 >>>>>>> Stashed changes
+=======
+Canvis des de develop2
+
+Imaginar coses boniques
+Olorar com cuina el veí
+
+Canvis des de develop2
+
+Pensar en el futur
+Meditar
+>>>>>>> develop
