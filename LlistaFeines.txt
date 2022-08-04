@@ -54,6 +54,7 @@ Endreçar llibres
 Treure la pols armari
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Canvis des de main
 
 Pensar plans cap de setmana
@@ -101,3 +102,14 @@ Canvis des de develop2
 Pensar en el futur
 Meditar
 >>>>>>> develop
+=======
+Canvis des de develop 2
+
+Mirar les musaranyes
+Fer un got d'aigua
+
+Canvis des de develop 2
+
+Aparellar els mitjons
+Fer ganxet
+>>>>>>> develop2
