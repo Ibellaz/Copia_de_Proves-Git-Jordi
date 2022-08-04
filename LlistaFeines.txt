@@ -67,5 +67,15 @@ Meditar
 
 Canvis a develop
 
+<<<<<<< Updated upstream
 Fer una capcinada
 Rascar-se la panxa
+=======
+Imaginar coses boniques
+Olorar com cuina el veí
+
+Canvis des de main
+
+Agafar gana
+Picar a la nevera
+>>>>>>> Stashed changes
