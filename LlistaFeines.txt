@@ -76,6 +76,16 @@ Olorar com cuina el veí
 
 Canvis des de main
 
+<<<<<<< Updated upstream
 Agafar gana
 Picar a la nevera
+>>>>>>> Stashed changes
+=======
+Pensar en el futur
+Meditar
+
+Canvis a develop
+
+Fer una capcinada
+Rascar-se la panxa
 >>>>>>> Stashed changes
