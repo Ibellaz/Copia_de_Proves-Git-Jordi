@@ -53,8 +53,6 @@ Inici llista 2a part
 Endreçar llibres
 Treure la pols armari
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Canvis des de main
 
 Pensar plans cap de setmana
@@ -69,20 +67,15 @@ Meditar
 
 Canvis a develop
 
-<<<<<<< Updated upstream
 Fer una capcinada
 Rascar-se la panxa
-=======
 Imaginar coses boniques
 Olorar com cuina el veí
 
 Canvis des de main
 
-<<<<<<< Updated upstream
 Agafar gana
 Picar a la nevera
->>>>>>> Stashed changes
-=======
 Pensar en el futur
 Meditar
 
@@ -90,8 +83,7 @@ Canvis a develop
 
 Fer una capcinada
 Rascar-se la panxa
->>>>>>> Stashed changes
-=======
+
 Canvis des de develop2
 
 Imaginar coses boniques
@@ -101,8 +93,7 @@ Canvis des de develop2
 
 Pensar en el futur
 Meditar
->>>>>>> develop
-=======
+
 Canvis des de develop 2
 
 Mirar les musaranyes
@@ -112,4 +103,9 @@ Canvis des de develop 2
 
 Aparellar els mitjons
 Fer ganxet
->>>>>>> develop2
+
+Canvis a develop
+
+Fer una capcinada
+Rascar-se la panxa
+
