@@ -8,6 +8,7 @@ Canvis des de main
 
 Passar aspiradora
 Rentar cortines
+
 Canvis des de develop
 
 Treure el gos
@@ -19,6 +20,7 @@ Canvis des de main
 Recollir la brossa
 Cuinar llegums
 Fer llista de comprar
+
 Canvis des de develop
 
 Caixer automàtic
@@ -30,6 +32,7 @@ Canvis des de main
 Veure ploure
 Pensar coses
 Mirar info netflix
+
 Canvis des de develop
 
 Mirar el sostre les bombetes dels llums
