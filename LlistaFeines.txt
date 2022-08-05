@@ -109,7 +109,4 @@ Canvis a develop
 Fer una capcinada
 Rascar-se la panxa
 
-
-Git status -s?
-Git status -s?
-Prova 2
+No aconseguim desfer commits de moment...
