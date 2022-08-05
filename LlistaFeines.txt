@@ -109,3 +109,6 @@ Canvis a develop
 Fer una capcinada
 Rascar-se la panxa
 
+
+Git status -s?
+
