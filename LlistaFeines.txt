@@ -113,4 +113,3 @@ Rascar-se la panxa
 Git status -s?
 Git status -s?
 Git status -s?
-Git status -s?
