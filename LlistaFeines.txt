@@ -8,8 +8,108 @@ Canvis des de main
 
 Passar aspiradora
 Rentar cortines
+
 Canvis des de develop
 
 Treure el gos
 Pentinar el gat
 Ventilar la casa
+
+Canvis des de main
+
+Recollir la brossa
+Cuinar llegums
+Fer llista de comprar
+
+Canvis des de develop
+
+Caixer automàtic
+Trucar a la Seg Social
+Mirar whatsapp
+
+Canvis des de main
+
+Veure ploure
+Pensar coses
+Mirar info netflix
+
+Canvis des de develop
+
+Mirar el sostre les bombetes dels llums
+Pensar nou ordre mobles menjador
+Pensar color pintura parets
+Mirar web casa de mobles
+Passar el rosari
+
+Canvis des de main
+
+Comptar rotllos de paper de wc
+Mirar pelis al cine de sota de casa
+
+Canvis de de develop
+
+Inici llista 2a part
+
+Endreçar llibres
+Treure la pols armari
+
+Canvis des de main
+
+Pensar plans cap de setmana
+Mirar-ho a internet
+
+Canvis des de main
+
+Veure ploure
+Resar
+Pensar en el futur
+Meditar
+
+Canvis a develop
+
+Fer una capcinada
+Rascar-se la panxa
+Imaginar coses boniques
+Olorar com cuina el veí
+
+Canvis des de main
+
+Agafar gana
+Picar a la nevera
+Pensar en el futur
+Meditar
+
+Canvis a develop
+
+Fer una capcinada
+Rascar-se la panxa
+
+Canvis des de develop2
+
+Imaginar coses boniques
+Olorar com cuina el veí
+
+Canvis des de develop2
+
+Pensar en el futur
+Meditar
+
+Canvis des de develop 2
+
+Mirar les musaranyes
+Fer un got d'aigua
+
+Canvis des de develop 2
+
+Aparellar els mitjons
+Fer ganxet
+
+Canvis a develop
+
+Fer una capcinada
+Rascar-se la panxa
+
+
+Git status -s?
+Git status -s?
+Prova 2
